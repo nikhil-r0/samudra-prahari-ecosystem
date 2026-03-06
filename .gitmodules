@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:nikhil-r0/samudra-prahari-app.git
+[submodule "scraper"]
+	path = scraper
+	url = git@github.com:nikhil-r0/samudra-scraper.git
+[submodule "web"]
+	path = web
+	url = git@github.com:nikhil-r0/samudra-web.git
